@@ -66,8 +66,7 @@ public class Okienko {
 	}
 
 	private void setLineWrap(boolean b) {
-		// TODO Auto-generated method stub
-		
+			
 	}
 
 	// obs³uga akcji wœciœniêcia przycisku oblicz
