@@ -62,13 +62,9 @@ public class Okienko {
 		frame.setLayout(null);
 		frame.setVisible(true);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-	
-	}
-
+		}
 	private void setLineWrap(boolean b) {
-			
 	}
-
 	// obs³uga akcji wœciœniêcia przycisku oblicz
 	public void calcAction() {
 		// odczytujemy wartoœci z pól i rzutujemy je do zmiennych Double
@@ -108,14 +104,10 @@ public class Okienko {
 		}
 		}
 			
-			
+	//jjjjj
 	}
-
-
-		// zak³adam, ¿e mam ju¿ wynik i wypisuje go na etykiecie wynikowej
+	// zak³adam, ¿e mam ju¿ wynik i wypisuje go na etykiecie wynikowej
 		//ta.setText("Moje dane: " + a + " " + b + " " + c);
-
-
 	public static void main(String[] args) {
 		Okienko o = new Okienko();
 		o.frameCreator();
